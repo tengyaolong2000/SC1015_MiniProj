@@ -2,7 +2,7 @@
 ## SC1015 mini project 
 
 # IMPORTANT!!!
-Paste notebook in https://nbviewer.org/ to see full notebook. Some charts only work there and not shown on GitHub since GitHub only show static images.
+Paste notebook in https://nbviewer.org/ to see full notebook. Some charts only work there and not shown on GitHub since GitHub only shows static images.
 
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence). We use the [Stroke Dataset from Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
