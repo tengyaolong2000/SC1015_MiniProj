@@ -36,10 +36,10 @@ The order of our notebook is:
 8) Naive Bayes Classifier
 
 ## Conclusion
-- Age and BMI unanimously are the biggest predictors of hypertension
-- Other predictors include average glucose level and heart disease (It's important to exercise!!! 🏃‍♂️🏃‍♀️)
+- Age and BMI unanimously are the biggest predictors of hypertension.
+- Other predictors include average glucose level and heart disease (It's important to exercise!!! 🏃‍♂️🏃‍♀️).
 - Tree models are good are predicting hypertension if we focus only on recall. However the scores of other metrics are sacrificed too much.
-- Logistic Regression and Naive Bayes models have decent recall without sacrificing other scores too much. These models are good if we have limited resources (GPU/ memory)
+- Logistic Regression and Naive Bayes models have decent recall without sacrificing other scores too much. These models are good if we have limited resources (GPU/ memory).
 - If we have sufficient resources, the Neural Network has the potential to be the best after more hyperparameter tuning/ increase in model complexity
 - However we also need to deal with overfitting.
 - If we were to use a Deep Learning approach, we could also utilise transfer learning/ ensemble modeling.
