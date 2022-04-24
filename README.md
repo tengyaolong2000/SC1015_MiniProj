@@ -1,4 +1,4 @@
-# Welcome to Hypertension Analysis Repository!
+# Welcome to the Hypertension Analysis Repository! 🩸
 ## SC1015 mini project 
 
 # IMPORTANT!!!
