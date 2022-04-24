@@ -17,9 +17,9 @@ The order of our notebook is:
 (Links to jump around the notebook will be provided in the notebook itself to minimise scrolling. However it only works on https://nbviewer.org/ !)
 
 ## Contributors
-@tengyaolong2000 Teng Yao Long
-@jewel-chin Jewel Chin
-@yuminp Park Yumin
+- @tengyaolong2000 Teng Yao Long
+- @jewel-chin Jewel Chin
+- @yuminp Park Yumin
 
 ## Problem Definition
 - What are the main predictors of Hypertension?
